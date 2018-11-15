@@ -1,0 +1,47 @@
+﻿body {
+font-family: Verdana,Arial,sans-serif;
+font-size: 83%;
+}
+h1 {
+border-style: double;
+color: blue;
+text-align: center;
+}
+h2 {
+color: fuchsia;
+margin-bottom: 0px;
+font-size: 100%;
+}
+li {
+font-style: italic;
+}
+p {
+margin-top: 2px;
+}
+body {
+background-color: rgb(177,255,20)
+}
+p {
+text-align: justify;
+}
+
+.noteBox {
+border-style: dashed;
+border-width: 2px;
+}
+<style>
+  body {
+    font-family: Georgia;
+  }
+  img.FloatLeft {
+float: left;
+margin: 10px;
+  }
+
+</style>
+
+ul {
+  list-style-image: url('3Dball.gif');
+}
+
+

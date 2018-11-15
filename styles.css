@@ -1,0 +1,54 @@
+body {
+font-family: Verdana,Arial,sans-serif;
+font-size: 83%;
+color: blue;
+}
+h1 {
+background-color: #761C00;
+margin: 0px;
+padding: 20px;
+color: blue;
+text-align: center;
+}
+h2 {
+color: green;
+margin-bottom: 0px;
+font-size: 100%;
+}
+li {
+font-style: italic;
+}
+p {
+margin-top: 2px;
+}
+body {
+background-color: blue
+}
+.noteBox {
+border-style: dashed;
+border-width: 2px;
+}
+<style>
+  body {
+    font-family: Georgia;
+    background-color: green;
+  }
+  p {
+  text-align: justify;
+  }
+  img {
+  float: left;
+  margin-top: 3px;
+  margin-right: 15px;
+  margin-bottom: 7px;
+  border-style: solid;
+  border-color: blue;
+  border-width: 1px;
+  }
+</style>
+ul {
+  list-style-image: url('3Dball.gif');
+}
+a {
+color: blue;
+}
